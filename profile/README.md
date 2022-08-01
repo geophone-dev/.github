@@ -4,9 +4,17 @@
 
 ### Geophone project
 
-Operating system for making open source geophone.
+Geophone opensource Linux based OS.
 
 #### Supported hardware
 
 * Raspberry Pi 3b
 * Raspberry Pi zero
+
+### Build
+
+How to build the images check [geophone-manifests](https://github.com/zuckerman-dev/geophone-manifests).
+
+### Data analysis
+
+Jupyter notebooks with simple analysis of the data recorded from the geophones could be found [geophone-notebooks](https://github.com/zuckerman-dev/geophone-notebooks)
