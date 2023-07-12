@@ -6,6 +6,8 @@
 
 Geophone opensource Linux based OS.
 
+![Geophone test benches](img/project.jpg)
+
 #### Supported hardware
 
 * Raspberry Pi 3b
