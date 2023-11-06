@@ -1,4 +1,6 @@
-# zdev
+# ZuckerDev
+
+**Software ohne Zucker!**
 
 ## Projects
 
