@@ -1,6 +1,4 @@
-# ZuckerDev
-
-**Software ohne Zucker!**
+# Geophone.Dev
 
 ## Projects
 
