@@ -6,7 +6,7 @@
 
 Geophone opensource Linux based OS.
 
-![Geophone test benches](profile/img/project.jpg)
+![Geophone test benches](img/project.jpg)
 
 #### Supported hardware
 
